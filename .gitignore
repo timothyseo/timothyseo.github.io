@@ -6,3 +6,5 @@ vendor
 .img
 .png
 /datasets
+/.ipynb_checkpoints
+.txt
